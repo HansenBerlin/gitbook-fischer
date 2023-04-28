@@ -28,6 +28,7 @@ ggf Anhang
 
 Die folgenden Kapitel sind immer nach demselben, kommentierten Schema aufgebaut:
 
+* kurz Einleitung
 * Screenshot der Umsetzung in der Anwendung
 * verwendetes Datenmodell
 * Datenabfrage (Aggregationen, Transformationen)

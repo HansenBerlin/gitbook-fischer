@@ -17,7 +17,7 @@
         * [3.2.3.1 Demografische Daten](doku/3-datenanalyse/3.2-businessrelevante-analyse/3.2.3-aggregate/3.2.3.1-demografische-daten.md)
         * [3.2.3.2 Geodaten](doku/3-datenanalyse/3.2-businessrelevante-analyse/3.2.3-aggregate/3.2.3.2-geodaten.md)
   * [4 Visualisierung](doku/4-visualisierung/README.md)
-    * [4.1 Dashboard](doku/4-visualisierung/4.1-dashboard.md)
+    * [4.1 Dashboard](doku/4-visualisierung/4.2-dashboard.md)
     * [4.2 Diagramme](doku/4-visualisierung/4.2-diagramme.md)
     * [4.3 Karten](doku/4-visualisierung/4.3-karten.md)
     * [4.4 Prediction/ML](doku/4-visualisierung/4.4-prediction-ml/README.md)
