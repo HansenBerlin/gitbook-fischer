@@ -26,7 +26,7 @@ ggf Anhang
 
 ### Aufbau
 
-Die folgenden Kapitel sind immer nach demselben, kommentierten Schema aufgebaut:
+Die folgenden Kapitel sind immer nach demselben, kommentierten Schema aufgebaut. Der jeweilige Teil wird nur dann weiter erläutert, wenn die Komplexität über ein normales Maß hinausgeht oder Entscheidungen getroffen wurden, die dies aus unserer Sicht erforderlich machen:
 
 * kurze Einleitung
 * Screenshot der Umsetzung in der Anwendung
