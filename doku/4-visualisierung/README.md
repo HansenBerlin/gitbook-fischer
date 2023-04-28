@@ -28,11 +28,11 @@ ggf Anhang
 
 Die folgenden Kapitel sind immer nach demselben, kommentierten Schema aufgebaut:
 
-* kurz Einleitung
+* kurze Einleitung
 * Screenshot der Umsetzung in der Anwendung
 * verwendetes Datenmodell
 * Datenabfrage (Aggregationen, Transformationen)
-* exemplarischer Codeausschnitt der Dashboardanwendung (Client)
+* exemplarischer Codeausschnitt der Dashboardanwendung (Client), sofern für den BIA Kontext relevant
 
 
 

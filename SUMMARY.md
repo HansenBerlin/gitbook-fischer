@@ -23,5 +23,6 @@
     * [4.4 Prediction/ML](doku/4-visualisierung/4.4-prediction-ml/README.md)
       * [4.4.1 Training](doku/4-visualisierung/4.4-prediction-ml/4.4.1-training.md)
       * [4.4.2 Modellnutzung](doku/4-visualisierung/4.4-prediction-ml/4.4.2-modellnutzung.md)
+    * [4.5 Aggregate](doku/4-visualisierung/4.5-aggregate.md)
   * [5 Operationalisierung](doku/5-operationalisierung.md)
   * [6 Fazit](doku/6-fazit.md)
